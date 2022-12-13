@@ -6,7 +6,7 @@ struct Question {
     
     init(q: String, a: String) {
         text = q
-        self.answer = a
+        answer = a
     }
 }
 
